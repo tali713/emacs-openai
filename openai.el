@@ -47,7 +47,7 @@
 
 (defcustom openai-key ""
   "Generated API key."
-  :type 'list
+  :type 'string
   :group 'openai)
 
 (defcustom openai-user ""
